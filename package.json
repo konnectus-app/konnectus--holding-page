@@ -1,0 +1,13 @@
+{
+  "name": "konnectus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "npx surge src",
+    "start": "npx serve src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
