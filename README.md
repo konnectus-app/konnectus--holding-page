@@ -11,7 +11,7 @@ npm start
 
 ## Deploying
 
-This uses [GitHub Pages action](https://github.com/marketplace/actions/github-pages-action#%EF%B8%8F-create-ssh-deploy-key)
+This uses Surge.sh
 
 ## Manually Deploying
 
