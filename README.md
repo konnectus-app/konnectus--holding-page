@@ -1,10 +1,6 @@
 # Holding Page
 
-Holding page for website.
-
-## Requires
-
-- [nvm]
+Holding page for Konnectus website.
 
 ## Developing
 
@@ -15,14 +11,11 @@ npm start
 
 ## Deploying
 
-This will require [surge tokens] to be set from the main surge owners account.
+This uses [GitHub Pages action](https://github.com/marketplace/actions/github-pages-action#%EF%B8%8F-create-ssh-deploy-key)
+
+## Manually Deploying
 
 ```bash
 # Deploy
 npm run deploy
 ```
-
-<!-- MARKDOWN REFS -->
-
-[nvm]: https://github.com/nvm-sh/nvm
-[surge tokens]: https://surge.sh/help/integrating-with-circleci
