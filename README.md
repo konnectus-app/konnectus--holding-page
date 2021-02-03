@@ -11,11 +11,4 @@ npm start
 
 ## Deploying
 
-This uses Surge.sh
-
-## Manually Deploying
-
-```bash
-# Deploy
-npm run deploy
-```
+This deploys to Github Pages using <https://github.com/marketplace/actions/github-pages-action>
